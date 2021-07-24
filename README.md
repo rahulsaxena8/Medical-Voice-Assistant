@@ -16,4 +16,4 @@ Doctor can simply whatsapp or mail it to patient. Doctor can close the app by sa
 Appointment' column corresponding to the patient which was 'Yes' earlier will become 'No'.
 
 Whole flow of the app was made on Voiceflow application. Anyone can make voice apps on it and upload it on google actions console. Google assistant is able to communicate
-with telegram and evernote via integromat platform.
+with telegram,evernote and google sheets via integromat platform.
